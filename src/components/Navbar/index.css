@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.navbar {
+  padding: 10px 25px 10px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #dcdcdc;
+}
+
+.dark-background {
+  background-color: #1e293b;
+  border: none;
+}
+
+.home-about-container {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  list-style-type: none;
+}
+
+.website-logo {
+  height: 50px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.link-dark {
+  color: #171f46;
+  font-weight: 500;
+  margin: 8px;
+}
+
+.link-light {
+  color: #ffffff;
+  font-weight: 500;
+  margin: 8px;
+}
+
+.theme-image {
+  height: 35px;
+}
+
+.theme-button {
+  background: none;
+  border: none;
+}
